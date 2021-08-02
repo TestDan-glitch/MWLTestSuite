@@ -1,0 +1,25 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "ashleyellis3",
+  "key": "Fg5xrtq35X5rn4wfrXWY",
+  "capabilities": {
+    "build": "testng-browserstack",
+    "name": "Bstack-[TestNG] Parallel Test",
+    "browserstack.debug": true
+  },
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    },
+    "firefox": {
+      "browser": "firefox"
+    },
+    "safari": {
+      "os": "OS X",
+      "browser": "safari"
+    },
+    "ie": {
+      "browser": "internet explorer"
+    }
+  }
+}
