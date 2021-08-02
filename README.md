@@ -1,1 +1,1 @@
-MWL Reports
+MWL Test Suite
